@@ -1,0 +1,4 @@
+﻿  class.cpp
+D:\Visual Studio\project\Project1\Project1\class.cpp(24,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\project\Project1\Project1\class.cpp(25,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\Visual Studio\project\Project1\x64\Debug\Project1.exe
