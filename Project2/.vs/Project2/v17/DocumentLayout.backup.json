@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\project\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF671581-4796-4F1D-A88B-BDF063C3591B}|Project2\\Project2.vcxproj|D:\\Visual Studio\\project\\Project2\\Project2\\homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF671581-4796-4F1D-A88B-BDF063C3591B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homework.cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\project\\Project2\\Project2\\homework.cpp",
+              "RelativeDocumentMoniker": "Project2\\homework.cpp",
+              "ToolTip": "D:\\Visual Studio\\project\\Project2\\Project2\\homework.cpp*",
+              "RelativeToolTip": "Project2\\homework.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T03:38:58.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
