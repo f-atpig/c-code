@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\project\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E99F6E-82E3-4B2C-8CAC-6B89BA469993}|Project4\\Project4.vcxproj|D:\\Visual Studio\\project\\Project4\\Project4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E99F6E-82E3-4B2C-8CAC-6B89BA469993}|Project4\\Project4.vcxproj|solutionrelative:Project4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\project\\Project4\\Project4\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Project4\\\u6E90.cpp",
+              "ToolTip": "D:\\Visual Studio\\project\\Project4\\Project4\\\u6E90.cpp",
+              "RelativeToolTip": "Project4\\\u6E90.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T05:34:33.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
